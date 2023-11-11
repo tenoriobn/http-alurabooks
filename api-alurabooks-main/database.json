@@ -413,6 +413,31 @@
         }
       ],
       "sobre": "Desenvolvido e mantido pela Microsoft, o TypeScript é um pré-processador open source de códigos JavaScript que auxilia na escrita de códigos, desde os mais simples até os mais complexos, utilizando tipagem de dados e os princípios da Orientação a Objetos para o desenvolvimento de aplicações front-end, back-end e mobile."
+    },
+    {
+      "id": 34,
+      "categoria": 3,
+      "titulo": "Novo livro",
+      "slug": "novo-livro",
+      "descricao": "Livro do curso HTTP",
+      "isbn": "978-65-1111-11-1",
+      "numeroPaginas": 200,
+      "publicacao": "2023-01-01",
+      "imagemCapa": "heetps://raw.githubusercontent.com/viniciosneves/alurabooks/cursp-novo/public/imagens/livros/acessibilidade.png",
+      "autor": 1,
+      "opcoesCompra": [
+        {
+          "id": 1,
+          "titulo": "E-book",
+          "preco": 29.9,
+          "formatos": [
+            ".pdf",
+            ".pub",
+            ".mob"
+          ]
+        }
+      ],
+      "sobre": "Compre esse livro e aprenda tudo sobre HTTP."
     }
   ],
   "autores": [
